@@ -1,0 +1,75 @@
+
+.breadcrumbs{
+    width: 100%;
+    height: 200px;
+    background-size: 100% 100%;
+    background-image: url("../img/services/2.jpg") !important;
+    padding-top: 100px;
+}
+.breadcrumbs li {
+    color:white  !important;
+}
+.breadcrumbs h3{
+    color:white  !important;
+}
+
+.service-quote {
+    width: 328px;
+    min-height: 200px;
+    position: relative;
+    padding: 40px 35px;
+    border: 8px solid #d8dee2;
+    margin-top: 0px;
+    border-color: rgba(216,222,226,.6);
+    margin:0 auto;
+    
+}
+#quote-img{
+    width:50px;
+    height:35px;
+    margin-top: -120px;
+}
+.portfolio_listing .portfolio_wrapper {
+    border-bottom: none !important;
+}
+.port_description p {
+    color: #525962;
+    font-size: 14px;
+    /* padding-top: 10px; */
+    line-height: 30px;
+    padding:15px;
+}
+#technology-img{
+    height:250px;
+    padding-left: 20px;
+    
+}
+.technology-section{
+    width: 230px;
+    min-height: 200px;
+    position: relative;
+    padding: 40px 35px;
+    border: 8px solid #d8dee2;
+    margin-left: 50px;
+    border-color: rgba(216,222,226,.6);
+}
+
+/* Services3 styles start */
+.icon-box{
+    padding-left:50px;
+}
+/* Services3 styles start */
+
+/* Services4 styles start */
+#uxgif{
+width:100%;
+height:auto;
+}
+/* Services4 styles start */
+@media (max-width: 768px) {
+  
+}
+
+
+
+
